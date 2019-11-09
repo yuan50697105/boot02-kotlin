@@ -10,6 +10,6 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>boot022</artifactId>
-
+    <packaging>pom</packaging>
 
 </project>
